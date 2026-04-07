@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vadiraj Joshi</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack | 450+ LeetCode Problems | Exploring Three.js & GSAP</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | 500+ LeetCode Problems | Exploring Three.js & GSAP</h3>
 
 <p align="center">
 Passionate about building scalable web applications and solving real-world problems using modern technologies.
@@ -14,7 +14,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 🔭 Currently building **Full Stack MERN Applications**
 
-🧠 Solved **450+ Data Structures & Algorithms problems on LeetCode using Java**
+🧠 Solved **500+ Data Structures & Algorithms problems on LeetCode using Java**
 
 🌱 Currently learning **Next.js and Advanced Backend Development**
 
@@ -123,7 +123,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 <p>
 
-✔ Solved **450+ Data Structures & Algorithms problems on LeetCode**
+✔ Solved **500+ Data Structures & Algorithms problems on LeetCode**
 
 ✔ Built **multiple full stack applications using MERN**
 
