@@ -108,16 +108,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadiraj-22&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 <h2 align="left">🏆 Achievements</h2>
 
