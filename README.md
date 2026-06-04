@@ -20,7 +20,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 🎨 Interested in **Three.js and GSAP for interactive web experiences**
 
-🌐 Portfolio  - https://portfolio-jk7i.onrender.com/
+🌐 Portfolio  - https://vadirajjoshiportfolio.vercel.app
 
 🖥️ LeetCode  - https://leetcode.com/u/Vadiraj_22/
 
