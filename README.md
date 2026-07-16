@@ -109,67 +109,6 @@ const vadiraj = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [QuickAI](https://github.com/vadiraj-22/QuickAI)
-Full-stack AI SaaS platform integrating the Gemini and ClipDrop APIs.
-
-**Stack:** React · Node.js · PostgreSQL · Clerk Auth · Vercel
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ CivicFix
-Geo-tagged civic issue tracker with RBAC, built during an Infosys Springboard internship. Selected for **KSCST Karnataka** government funding.
-
-**Stack:** MongoDB · Cloudinary · Google OAuth · RBAC
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧹 [Clean Street](https://github.com/vadiraj-22/clean_street)
-Full-stack MERN website built for civic cleanliness reporting and tracking.
-
-**Stack:** MongoDB · Express · React · Node.js
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [SafePass](https://github.com/vadiraj-22/SafePass)
-A password security suite for generating and managing secure passwords.
-
-**Stack:** JavaScript
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio](https://github.com/vadiraj-22/Portfolio)
-Personal developer portfolio showcasing projects, skills, and experience.
-
-**Stack:** JavaScript · Vercel
-🔗 [Live Demo](https://vadirajjoshiportfolio.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [LaTexume](https://github.com/vadiraj-22/LaTexume)
-A modern, ATS-optimized resume builder powered by LaTeX. Uses the industry-standard **Jake's Resume template** trusted by engineers at Google, Meta, Amazon, and Microsoft — zero LaTeX knowledge required, instant PDF generation, and clickable links that work in the final PDF.
-
-**Stack:** JavaScript · LaTeX
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🏆 Achievements
 
@@ -179,21 +118,6 @@ A modern, ATS-optimized resume builder powered by LaTeX. Uses the industry-stand
 <br/>
 ✔ Project **CivicFix** selected for KSCST Karnataka government funding
 <br/>
-✔ Experienced in **REST APIs, Authentication, and Backend Development**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vadiraj-22&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vadiraj-22&theme=radical&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadiraj-22&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%"/>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
