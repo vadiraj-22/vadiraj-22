@@ -28,11 +28,11 @@ const vadiraj = {
 };
 ```
 
-- 🔭 Currently building **Full Stack MERN Applications**
-- 🧠 Solved **500+ Data Structures & Algorithms problems on LeetCode using Java**
-- 🌱 Currently learning **Next.js and Advanced Backend Development**
-- 🎨 Exploring **Three.js and GSAP** for interactive web experiences
-- 💬 Ask me about **React, Node.js, PostgreSQL, MongoDB, or DSA in Java**
+-  Currently building **Full Stack MERN Applications**
+-  Solved **500+ Data Structures & Algorithms problems on LeetCode using Java**
+-  Currently learning **Next.js and Advanced Backend Development**
+-  Exploring **Three.js and GSAP** for interactive web experiences
+-  Ask me about **React, Node.js, PostgreSQL, MongoDB, or DSA in Java**
 
 ---
 
